@@ -1,0 +1,7 @@
+name: FinViz
+dependencies:
+ - numpy
+ - pandas
+ - python
+ - requests
+ - seaborn
