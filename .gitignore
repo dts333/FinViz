@@ -1,3 +1,4 @@
 ﻿.idea/
-Configs/config.py
+Configs/*
+Data/Kaggle
 desktop.ini
